@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Me
+comment0.text=\r\n\ Eu.\r\n\ \r\n\ Mitran\ Ramona\r\n\ 12.01\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\:\ move\ up\ and\ down\ when\ cursor\ keys\ are\ pressed.\r\n
+comment2.params=
+comment2.target=void\ checkKeyPress()
+comment2.text=\r\n\ Check\ whether\ a\ keyboard\ key\ has\ been\ pressed\ and\ react\ if\ it\ has.\r\n
+comment3.params=
+comment3.target=void\ checkKeys()
+comment4.params=
+comment4.target=void\ shoot()
+comment5.params=
+comment5.target=void\ checkCollision()
+numComments=6
